@@ -32,4 +32,4 @@ From your command line (depending which terminal you are using. I am using power
 6. git push heroku main (Final step and if everything went well you should see a link to your newly created API)
 
 Lessons Learned:
-The take away here for me was to make sure that CORS was installed and added to my code. Once I figured out why I could not retrieve any information on the client side because of the cors, which took me longer than I want to admit. Everything went smoothly and my server side was working with my client side like PB$J! 
+The take away here for me was to make sure that CORS was installed and added to my code. Once I figured out why I could not retrieve any information on the client side because of the cors, which took me longer than I want to admit. Everything went smoothly and my server side was working with my client side like PB&J! 
