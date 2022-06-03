@@ -1,6 +1,6 @@
 # rap-names-api
 Rap Name API
-This is a fun little api that was built together for a fun project with 100Devs. I have taken the opportunity to add some more rappers to the list from the [https://complex.com](https://www.complex.com/music/best-rappers-20s-right-now-2021/) "Best 20 Rappers in their 20's" article to pump up this rappers like along with some OGs.
+This is a fun little api that was built together for a fun project with 100Devs. I have taken the opportunity to add some more rappers to the list from the [https://complex.com] https://www.complex.com/music/best-rappers-20s-right-now-2021/ "Best 20 Rappers in their 20's" article to pump up this list and I also included   some OGs from back in "my day".
 
 Link to project:https://rapper-name-api-project.herokuapp.com/api/rapper-name
 
