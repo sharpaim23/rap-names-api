@@ -5,7 +5,7 @@ This is a fun little api that was built together for a fun project with 100Devs.
 Link to project:https://rapper-name-api-project.herokuapp.com/api/rapper-name
 
 How It's Made:
-Tech used: HTML, JavaScript, Express, & Heroku
+Tech used: HTML, JavaScript, Node.js, Express, & Heroku
 
 First and foremost make sure that Node.js is installed. Easily install Node.js from here: https://nodejs.org/en/download/ and it is a simple download according to the OS you are using. 
 
