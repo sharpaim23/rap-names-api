@@ -1,0 +1,1 @@
+const rapperName = document.querySelector('button').addEventListener('click', rapper)
