@@ -137,7 +137,7 @@ app.get('/api/:name', (request, response) => {
   if(rappers[rapperName]){
     response.json(rappers[rapperName])
   }else{
-    response.json(rappers['dylan'])
+    response.json(rappers['unknown'])
   }
 })
 
